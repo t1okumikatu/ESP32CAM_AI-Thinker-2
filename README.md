@@ -5,3 +5,5 @@
 
 [ESP32_CAM_V1.6.pdf](https://github.com/t1okumikatu/ESP32CAM_AI-Thinker-2/files/15496158/ESP32_CAM_V1.6.pdf)
 
+SPIFFSマウントエラー時の対応
+https://kit.socinno.com/2019/08/20/post-1464/
