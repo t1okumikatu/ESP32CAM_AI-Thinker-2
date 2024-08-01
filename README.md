@@ -8,4 +8,6 @@
 SPIFFSマウントエラー時の対応
 https://kit.socinno.com/2019/08/20/post-1464/
 
+ESP32CAM 配線図
+
 [ESP32_CAM_V1.6.pdf](https://github.com/user-attachments/files/16449182/ESP32_CAM_V1.6.pdf)
